@@ -1,7 +1,3 @@
 - 👋 Привет ты постарела, этот трек для тебя 
 - https://youtu.be/GEFYg3lapWA
-
-<!---
-Ritorika/Ritorika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![Без-названия7_20221217143445](https://user-images.githubusercontent.com/120780104/208237189-8297a3e5-8800-4bc4-8e13-565e827d0d50.jpeg)
